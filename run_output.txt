@@ -1,0 +1,2 @@
+[NbConvertApp] Converting notebook ejercicios_python_converted.ipynb to notebook
+[NbConvertApp] Writing 1172 bytes to executed_converted.ipynb
